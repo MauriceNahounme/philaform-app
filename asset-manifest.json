@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.9402ef37.css",
-    "main.js": "/static/js/main.edfd782e.js",
+    "main.js": "/static/js/main.f0e952e4.js",
     "static/media/LOGO-PHILA.png": "/static/media/LOGO-PHILA.e6eeb9412478d939bf17.png",
     "static/media/bg1.jpg": "/static/media/bg1.9e43141c93e4bd205398.jpg",
     "static/media/BuenosAires-Regular-14.ttf": "/static/media/BuenosAires-Regular-14.7853472108d03785f178.ttf",
     "index.html": "/index.html",
     "main.9402ef37.css.map": "/static/css/main.9402ef37.css.map",
-    "main.edfd782e.js.map": "/static/js/main.edfd782e.js.map"
+    "main.f0e952e4.js.map": "/static/js/main.f0e952e4.js.map"
   },
   "entrypoints": [
     "static/css/main.9402ef37.css",
-    "static/js/main.edfd782e.js"
+    "static/js/main.f0e952e4.js"
   ]
 }
